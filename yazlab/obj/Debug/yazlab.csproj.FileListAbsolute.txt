@@ -1,0 +1,30 @@
+c:\users\korekürdü\documents\visual studio 2015\Projects\yazlab\yazlab\bin\Debug\yazlab.exe.config
+c:\users\korekürdü\documents\visual studio 2015\Projects\yazlab\yazlab\bin\Debug\yazlab.exe
+c:\users\korekürdü\documents\visual studio 2015\Projects\yazlab\yazlab\bin\Debug\yazlab.pdb
+c:\users\korekürdü\documents\visual studio 2015\Projects\yazlab\yazlab\obj\Debug\yazlab.Form1.resources
+c:\users\korekürdü\documents\visual studio 2015\Projects\yazlab\yazlab\obj\Debug\yazlab.Properties.Resources.resources
+c:\users\korekürdü\documents\visual studio 2015\Projects\yazlab\yazlab\obj\Debug\yazlab.csproj.GenerateResource.Cache
+c:\users\korekürdü\documents\visual studio 2015\Projects\yazlab\yazlab\obj\Debug\yazlab.exe
+c:\users\korekürdü\documents\visual studio 2015\Projects\yazlab\yazlab\obj\Debug\yazlab.pdb
+c:\users\korekürdü\documents\visual studio 2015\Projects\yazlab\yazlab\obj\Debug\yazlab.csprojResolveAssemblyReference.cache
+C:\Users\Ogün\Desktop\Yazlab\yazlab\bin\Debug\yazlab.exe.config
+C:\Users\Ogün\Desktop\Yazlab\yazlab\obj\Debug\yazlab.exe
+C:\Users\Ogün\Desktop\Yazlab\yazlab\obj\Debug\yazlab.pdb
+C:\Users\Ogün\Desktop\Yazlab\yazlab\bin\Debug\yazlab.exe
+C:\Users\Ogün\Desktop\Yazlab\yazlab\bin\Debug\yazlab.pdb
+C:\Users\Ogün\Desktop\Yazlab\yazlab\obj\Debug\yazlab.csprojResolveAssemblyReference.cache
+C:\Users\Ogün\Desktop\Yazlab\yazlab\obj\Debug\yazlab.Form1.resources
+C:\Users\Ogün\Desktop\Yazlab\yazlab\obj\Debug\yazlab.Properties.Resources.resources
+C:\Users\Ogün\Desktop\Yazlab\yazlab\obj\Debug\yazlab.csproj.GenerateResource.Cache
+C:\Users\Ogün\Desktop\son\Yazlab\yazlab\bin\Debug\yazlab.exe.config
+C:\Users\Ogün\Desktop\son\Yazlab\yazlab\obj\Debug\yazlab.exe
+C:\Users\Ogün\Desktop\son\Yazlab\yazlab\obj\Debug\yazlab.pdb
+C:\Users\Ogün\Desktop\son\Yazlab\yazlab\obj\Debug\yazlab.csprojResolveAssemblyReference.cache
+C:\Users\Ogün\Desktop\son\Yazlab\yazlab\obj\Debug\yazlab.Form1.resources
+C:\Users\Ogün\Desktop\son\Yazlab\yazlab\obj\Debug\yazlab.Properties.Resources.resources
+C:\Users\Ogün\Desktop\son\Yazlab\yazlab\obj\Debug\yazlab.csproj.GenerateResource.Cache
+C:\Users\Ogün\Desktop\son\Yazlab\yazlab\bin\Debug\yazlab.exe
+C:\Users\Ogün\Desktop\son\Yazlab\yazlab\bin\Debug\yazlab.pdb
+C:\Users\ogun\Desktop\Yaz-Lab II\yazlab\bin\Debug\yazlab.exe.config
+C:\Users\ogun\Desktop\Yaz-Lab II\yazlab\obj\Debug\yazlab.exe
+C:\Users\ogun\Desktop\Yaz-Lab II\yazlab\obj\Debug\yazlab.pdb
